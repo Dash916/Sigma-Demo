@@ -1,2 +1,2 @@
 # Sigma-Demo
-This is for write down our codes.
+This is a Demo for Git and GitHub Class.
